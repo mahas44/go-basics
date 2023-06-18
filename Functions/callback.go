@@ -25,7 +25,7 @@ func sum(xi ...int) int {
 	return total
 }
 
-//callback func
+// callback func
 func even(f func(xi ...int) int, vi ...int) int {
 	var yi []int
 	for _, v := range vi {

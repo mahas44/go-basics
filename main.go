@@ -1,10 +1,16 @@
 package main
 
 import (
-	"fmt"
+	// fnc "go-basics/functions"
+	// jsn "go-basics/jsnbasic"
+	// conc "go-basics/concurrency"
+	chn "go-basics/channels"
 )
 
 func main() {
-	fmt.Println("Hello")
+	// fnc.Callback()
+	// jsn.Marshaling()
 
+	// conc.AtomicExp()
+	chn.Fanin()
 }
