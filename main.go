@@ -12,5 +12,6 @@ func main() {
 	// jsn.Marshaling()
 
 	// conc.AtomicExp()
-	chn.Fanin()
+	// chn.Fanin()
+	chn.Fanout()
 }
