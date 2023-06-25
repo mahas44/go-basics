@@ -13,5 +13,6 @@ func main() {
 
 	// conc.AtomicExp()
 	// chn.Fanin()
-	chn.Fanout()
+	// chn.Fanout()
+	chn.Context()
 }
