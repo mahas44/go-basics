@@ -1,4 +1,4 @@
-package exercises
+package level9
 
 /*
 	Exercise3 with atomic

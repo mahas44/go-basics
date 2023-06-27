@@ -1,4 +1,4 @@
-package exercises
+package level9
 
 import (
 	"fmt"

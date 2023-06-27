@@ -4,7 +4,8 @@ import (
 	// fnc "go-basics/functions"
 	// jsn "go-basics/jsnbasic"
 	// conc "go-basics/concurrency"
-	chn "go-basics/channels"
+	// chn "go-basics/channels"
+	lvl10 "go-basics/exercises/level10"
 )
 
 func main() {
@@ -14,5 +15,6 @@ func main() {
 	// conc.AtomicExp()
 	// chn.Fanin()
 	// chn.Fanout()
-	chn.Context()
+	// chn.Context()
+	lvl10.Exercise7()
 }
