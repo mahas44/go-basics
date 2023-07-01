@@ -9,8 +9,8 @@ import (
 )
 
 func Check() {
-	//one()
-	// two()
+	one()
+	two()
 	three()
 	four()
 }

@@ -18,5 +18,5 @@ func main() {
 	// chn.Fanout()
 	// chn.Context()
 	// lvl10.Exercise7()
-	errorhandling.Check()
+	errorhandling.Logging()
 }
